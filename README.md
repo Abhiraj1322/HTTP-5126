@@ -18,7 +18,7 @@ For detailed SQL resources, visit [W3Schools SQL Tutorial](https://www.w3schools
 
 ## Images
 
-![Database Design](./database_design.jpg)
+![Database Design](./database-design-vector-4175453.jpg)
 
 ***Important Notice:*** This repository contains assignments and projects related to database design and development. Mastering these concepts is crucial for effective data management in software development.
 
